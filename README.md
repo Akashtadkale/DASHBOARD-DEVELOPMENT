@@ -64,3 +64,4 @@ This project significantly improved my understanding of data visualization, busi
 
 #output
 
+![Image](https://github.com/user-attachments/assets/e1eddb88-80ba-43f3-9e6c-a18f5163efa3)
